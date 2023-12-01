@@ -12,10 +12,10 @@ const FITBIT_API_CLIENT_SECRET = "*****";
 
 function setProps(){
   const property = PropertiesService.getScriptProperties();
-  property.setProperty('HEALTHPLANET_API_CLIENT_ID',HEALTHPLANET_API_CLIENT_ID);
-  property.setProperty('HEALTHPLANET_API_CLIENT_SECRET',HEALTHPLANET_API_CLIENT_SECRET);
-  property.setProperty('GOOGLE_API_CLIENT_ID',GOOGLE_API_CLIENT_ID);
-  property.setProperty('GOOGLE_API_CLIENT_SECRET',GOOGLE_API_CLIENT_SECRET);
+  property.setProperty('HEALTHPLANET_API_CLIENT_ID',15523.f9IHWe6Zvs.apps.healthplanet.jp);
+  property.setProperty('HEALTHPLANET_API_CLIENT_SECRET',1701397316266-hO4Ug0MJzHbYRwY5mSnJY1KwkiteJnC3mQ8XtM3b);
+  property.setProperty('GOOGLE_API_CLIENT_ID',262310162913-f9u3cqhau5m0mu1jbkso07rp79mvilsc.apps.googleusercontent.com);
+  property.setProperty('GOOGLE_API_CLIENT_SECRET',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);
   property.setProperty('FITBIT_API_CLIENT_ID',FITBIT_API_CLIENT_ID);
   property.setProperty('FITBIT_API_CLIENT_SECRET',FITBIT_API_CLIENT_SECRET);
 }
