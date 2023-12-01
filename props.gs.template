@@ -7,8 +7,8 @@ const HEALTHPLANET_API_CLIENT_SECRET = "1701397316266-hO4Ug0MJzHbYRwY5mSnJY1Kwki
 const GOOGLE_API_CLIENT_ID = "262310162913-f9u3cqhau5m0mu1jbkso07rp79mvilsc.apps.googleusercontent.com";
 const GOOGLE_API_CLIENT_SECRET = "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";
 
-const FITBIT_API_CLIENT_ID = "*****";
-const FITBIT_API_CLIENT_SECRET = "*****";
+const FITBIT_API_CLIENT_ID = "23RHKH";
+const FITBIT_API_CLIENT_SECRET = "3e8454807a5c7df1907daae99c079b90";
 
 function setProps(){
   const property = PropertiesService.getScriptProperties();
