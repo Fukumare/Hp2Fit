@@ -1,14 +1,13 @@
-
 const SCALE_MODEL = "BC-768";
 
-const HEALTHPLANET_API_CLIENT_ID = "15523.f9IHWe6Zvs.apps.healthplanet.jp";
+const HEALTHPLANET_API_CLIENT_ID = "	15523.f9IHWe6Zvs.apps.healthplanet.jp";
 const HEALTHPLANET_API_CLIENT_SECRET = "1701397316266-hO4Ug0MJzHbYRwY5mSnJY1KwkiteJnC3mQ8XtM3b";
 
-const GOOGLE_API_CLIENT_ID = "262310162913-f9u3cqhau5m0mu1jbkso07rp79mvilsc.apps.googleusercontent.com";
-const GOOGLE_API_CLIENT_SECRET = "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";
+const GOOGLE_API_CLIENT_ID = "331561416677-pmm1lcsipuh7ob7sodku3kkdfr2euoqc.apps.googleusercontent.com";
+const GOOGLE_API_CLIENT_SECRET = "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";
 
-const FITBIT_API_CLIENT_ID = "23RHKH";
-const FITBIT_API_CLIENT_SECRET = "3e8454807a5c7df1907daae99c079b90";
+const FITBIT_API_CLIENT_ID = "23RH89";
+const FITBIT_API_CLIENT_SECRET = "7027a010be29e0311fc4915277872cfd";
 
 function setProps(){
   const property = PropertiesService.getScriptProperties();
